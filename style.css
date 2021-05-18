@@ -49,7 +49,7 @@ body form input::placeholder {
   color: #000000;
 }
 body form input:focus {
-  border: 3px solid #ffee00;
+  border: 3px solid #ffffff;
 }
 body ul {
   text-align: left;
